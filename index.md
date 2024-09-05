@@ -5,7 +5,7 @@ layout: default
 
 # Welcome to My GitHub Pages Site
 
-Hello! This is my portfolio website (made using **Markdown**), where I have listed some of my most prominent projects so far.
+Hello! This is my portfolio website, where I have listed some of my most prominent projects so far.
 
 ## About Me
 
