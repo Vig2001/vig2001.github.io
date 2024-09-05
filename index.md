@@ -1,5 +1,6 @@
 ---
 title: Guruvignesh Balaji
+layout: default
 ---
 
 # Welcome to My GitHub Pages Site
