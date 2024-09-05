@@ -1,3 +1,5 @@
+title: Guruvignesh Balaji
+
 # Welcome to My GitHub Pages Site
 
 Hello! This is my website using **Markdown**.
