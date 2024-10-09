@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 sass:
   load_paths:
     - _sas
-
+include:
+  - assets/css/style.scss
