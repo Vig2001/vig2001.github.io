@@ -3,6 +3,7 @@ title: Guruvignesh Balaji
 layout: default
 ---
 
+<link rel="stylesheet" href="assets/css/custom.css">
 
 # Welcome to My Portfolio Website
 
