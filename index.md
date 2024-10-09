@@ -3,7 +3,7 @@ title: Guruvignesh Balaji
 layout: default
 ---
 
-# Welcome to My GitHub Pages Site
+# Welcome to My Portfolio Website
 
 Hello! This is my portfolio website, where I have listed some of my most prominent projects so far.
 
