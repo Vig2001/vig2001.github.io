@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 sass:
   load_paths:
     - _saas
