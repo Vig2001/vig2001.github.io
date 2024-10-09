@@ -5,7 +5,7 @@ layout: default
 
 # Welcome to My Portfolio Website
 
-<img src="Headshot.jpg" style="transform: rotate(90deg); width: 300px; height: auto;">
+<img src="Headshot.jpg" style="transform: rotate(90deg); width: 300px; height: auto; display: block; margin: auto;">
 
 Hello! This is my portfolio website, where I have listed some of my most prominent projects so far.
 
