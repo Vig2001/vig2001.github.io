@@ -3,7 +3,13 @@ title: Guruvignesh Balaji
 layout: default
 ---
 
-<link rel="stylesheet" href="assets/css/custom.css">
+<style>
+.container {
+    border-width: 1px; /* Adjust border */
+    padding: 10px; /* Adjust padding */
+}
+</style>
+
 
 # Welcome to My Portfolio Website
 
