@@ -5,6 +5,8 @@ layout: default
 
 # Welcome to My Portfolio Website
 
+<img src="headshot.jpg" style="transform: rotate(90deg);">
+
 Hello! This is my portfolio website, where I have listed some of my most prominent projects so far.
 
 ## About Me
