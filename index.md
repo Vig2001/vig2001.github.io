@@ -3,9 +3,10 @@ title: Guruvignesh Balaji
 layout: default
 ---
 
+
 # Welcome to My Portfolio Website
 
-![](Headshot.jpg)
+<img src="Headshot.jpg" style="transform: rotate(90deg); width: 150px; height: auto; display: block; margin: auto;">
 
 ## About Me
 
