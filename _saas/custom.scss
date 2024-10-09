@@ -10,3 +10,11 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Style for images */
+img {
+  width: 150px; /* Adjust the width as needed */
+  float: left;  /* Align the image to the left */
+  margin-right: 15px; /* Optional: Adds space between the image and text */
+  margin-bottom: 10px; /* Optional: Adds space below the image */
+}
