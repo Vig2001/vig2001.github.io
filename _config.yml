@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-
+sass:
+  load_paths:
+    - _sas
 
