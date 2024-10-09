@@ -5,7 +5,7 @@ layout: default
 
 # Welcome to My Portfolio Website
 
-<img src="Headshot.jpg" style="transform: rotate(90deg); width: 300px; height: auto; display: block; margin: auto;">
+<img src="Headshot.jpg" style="transform: rotate(90deg); width: 150px; height: auto; float: left; margin-right: 15px; margin-bottom: 10px;">
 
 ## About Me
 
