@@ -1,13 +1,6 @@
-// Reduce left margin on main content
-body {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-}
 
-// Adjust for container margins
-.site {
-  max-width: 40%; /* Adjust this value to increase or decrease the width */
-  margin-left: auto;
-  margin-right: auto;
+body {
+    margin: 0;
+    padding: 0;
 }
 
