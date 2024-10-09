@@ -9,7 +9,7 @@ layout: default
 
 ## About Me
 
-Hello! My name is Vignesh. I am a MSci Mathematics graduate (1st Class Honours) from Imperial College London with a strong interest for machine learning and data science. At university I completed courses in Mathematical Foundations for Machine Learning, Methods for Data Science, Scientific Computation. 
+Hello! My name is Vignesh. I am a (July 2024) MSci Mathematics graduate (1st Class Honours) from Imperial College London with a strong interest for machine learning and data science. At university I completed courses in Mathematical Foundations for Machine Learning, Methods for Data Science, Scientific Computation. 
 
 As part of my Master's I completed a research project on Modelling the Heterogeneity in Duchenne Muscular Dystrophy supervised by Dr Christopher Hallsworth. This project sparked my interest in machine learning and AI for healthcare, revealing the powerful impact advances in statistics and computing can have in improving clinical outcomes and medical research!
 
