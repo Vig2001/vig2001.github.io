@@ -1,2 +1,3 @@
 # vig2001.github.io
-Initially used markdown then upgraded to html for more customisability.
+Markdown portfolio page
+Tried customising with css and scss but it did nothing
