@@ -1,6 +1,2 @@
-theme: jekyll-theme-merlot
-sass:
-  load_paths:
-    - _saas
-include:
-  - assets/css/style.css
+remote_theme: mmistakes/minimal-mistakes
+
