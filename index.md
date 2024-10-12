@@ -25,6 +25,7 @@ As part of my Master's I completed a research project on Modelling the Heterogen
 
 ## Extracurricular Projects
 -[IBM Z Datathon 2023](https://github.com/Vig2001/IBMZDatathon.git)
+-[IC Algothon 2023](https://github.com/Vig2001/ICAlgothon.git)
 
 ## University Projects
 
