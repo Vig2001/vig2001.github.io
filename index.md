@@ -15,12 +15,22 @@ Hello! My name is Vignesh. I am a (July 2024) MSci Mathematics graduate (1st Cla
 
 As part of my Master's I completed a research project on Modelling the Heterogeneity in Duchenne Muscular Dystrophy supervised by Dr Christopher Hallsworth. This project sparked my interest in machine learning and AI for healthcare, revealing the powerful impact advances in statistics and computing can have in improving clinical outcomes and medical research!
 
-### Projects
+**Interests:** Machine Learning in Healthcare, Climate Modellining & Financial Markets
+**Programming Languages:** Python, R, SQL
+**Frameworks:** PyTorch, Keras, TensorFlow
+**Version Control:** Git
+
+## Master's Research Project
+- [M4R Research Project](https://github.com/vig2001/M4R): 74.6%
+
+## Extracurricular Projects
+-[IBM Z Datathon 2023](https://github.com/Vig2001/IBMZDatathon.git)
+
+## University Projects
 
 - [Mathematical Foundations for Machine Learning Projects](https://github.com/vig2001/M4ML): 91.0%
 - [Methods for Data Science Projects](https://github.com/vig2001/MDS): 82.2%
 - [Scientific Computation Projects](https://github.com/vig2001/SciComp): 77.6%
-- [M4R Research Project](https://github.com/vig2001/M4R): 74.6%
 
 ## Contact
 
