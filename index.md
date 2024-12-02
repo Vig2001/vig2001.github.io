@@ -28,6 +28,8 @@ Overall Grade: **74.6%**
 - [Presentation PDF](https://github.com/Vig2001/vig2001.github.io/raw/main/Vignesh_M4R_Presentation-4.pdf)
 
 ## Extracurricular Projects
+- [Holistic AI Hackathon 2024](insert group URL here)
+- [Holistic AI Hackathon 2024 Certificate](insert URL to certificate here)
 - [IBM Z Datathon 2023](https://github.com/Vig2001/IBMZDatathon.git)
 - [IC Algothon 2023](https://github.com/Vig2001/ICAlgothon.git)
 
