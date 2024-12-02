@@ -29,7 +29,7 @@ Overall Grade: **74.6%**
 
 ## Extracurricular Projects
 - [Holistic AI Hackathon 2024](https://github.com/Arhaans/Holistic-Indians)
-- [Holistic AI Hackathon 2024 Certificate](https://github.com/Vig2001/vig2001.github.io/raw/main/Vignesh%20Balaji_Holistic-AI-Certificate-Hackathon-2024-Top-5.pdf)
+  - [Certificate](https://github.com/Vig2001/vig2001.github.io/raw/main/Vignesh%20Balaji_Holistic-AI-Certificate-Hackathon-2024-Top-5.pdf)
 - [IBM Z Datathon 2023](https://github.com/Vig2001/IBMZDatathon.git)
 - [IC Algothon 2023](https://github.com/Vig2001/ICAlgothon.git)
 
