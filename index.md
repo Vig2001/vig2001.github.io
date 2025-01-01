@@ -28,6 +28,7 @@ Overall Grade: **74.6%**
 - [Presentation PDF](https://github.com/Vig2001/vig2001.github.io/raw/main/Vignesh_M4R_Presentation-4.pdf)
 
 ## Hackathon Projects
+- [Stryker AI in Orthopaedics Hackathon 2024](https://github.com/yusiGM/StrykerAI2024)
 - [Holistic AI Hackathon 2024](https://github.com/Arhaans/Holistic-Indians)
   - [Certificate](https://github.com/Vig2001/vig2001.github.io/raw/main/Vignesh%20Balaji_Holistic-AI-Certificate-Hackathon-2024-Top-5.pdf)
 - [IBM Z Datathon 2023](https://github.com/Vig2001/IBMZDatathon.git)
