@@ -11,13 +11,13 @@ layout: default
 
 ## About Me
 
-Hello! My name is Vignesh. I am a (July 2024) MSci Mathematics graduate (1st Class Honours) from Imperial College London with a strong passion for machine learning and data science. At university I completed courses in Mathematical Foundations for Machine Learning, Methods for Data Science and Scientific Computation. 
+Hello! My name is Vignesh. I recently graduated from Imperial College London with a first-class MSci Mathematics degree. During the latter half of the programme, I specialised in statistics and data science where I enjoyed learning about the foundations of deep learning.
 
-As part of my Master's I completed a research project on Modelling the Heterogeneity in Duchenne Muscular Dystrophy supervised by Dr Christopher Hallsworth. This project sparked my interest in machine learning and AI for healthcare, revealing the powerful impact advances in statistics and computing can have in improving clinical outcomes and medical research!
+As part of my Master's, I worked on a research project with Dr Christopher Hallsworth, focusing on modelling the heterogeneity in Duchenne Muscular Dystrophy. The goal was to develop a novel scoring method to better explain the differences in patient motor abilities, so that drug testing / approval could be more informative and trustworthy. The project really highlighted how advances in statistics and computing can make a big difference in improving clinical outcomes, sparking my passion for the applications of deep learning to healthcare.
 
-**Interests:** Machine Learning in Healthcare, Climate Modelling & Financial Markets<br>
-**Programming Languages:** Python, R, SQL<br>
-**Frameworks:** PyTorch, Keras, TensorFlow<br>
+**Interests:** Interpretability and Causality in Deep Learning<br>
+**Programming Languages:** Python, R, Julia, SQL<br>
+**Frameworks:** PyTorch, TensorFlow, HuggingFace<br>
 **Version Control:** Git
 
 
@@ -27,13 +27,13 @@ Overall Grade: **74.6%**
 - [Dissertation PDF](https://github.com/Vig2001/vig2001.github.io/raw/main/01849526_VB.pdf)
 - [Presentation PDF](https://github.com/Vig2001/vig2001.github.io/raw/main/Vignesh_M4R_Presentation-4.pdf)
 
-## Extracurricular Projects
+## Hackathon Projects
 - [Holistic AI Hackathon 2024](https://github.com/Arhaans/Holistic-Indians)
   - [Certificate](https://github.com/Vig2001/vig2001.github.io/raw/main/Vignesh%20Balaji_Holistic-AI-Certificate-Hackathon-2024-Top-5.pdf)
 - [IBM Z Datathon 2023](https://github.com/Vig2001/IBMZDatathon.git)
 - [IC Algothon 2023](https://github.com/Vig2001/ICAlgothon.git)
 
-## University Projects
+## Academic Projects
 
 - [Mathematical Foundations for Machine Learning Projects](https://github.com/vig2001/M4ML): 91.0%
 - [Methods for Data Science Projects](https://github.com/vig2001/MDS): 82.2%
