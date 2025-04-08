@@ -11,9 +11,10 @@ layout: default
 
 ## About Me
 
-Hello! My name is Vignesh. I recently graduated from Imperial College London with a first-class MSci Mathematics degree. During the latter half of the programme, I specialised in statistical machine learning and worked on a research project with Dr Christopher Hallsworth, focusing on modelling the heterogeneity in the trajectory of Duchenne Muscular Dystrophy. The goal was to develop a novel scoring method to better explain the differences in patient motor abilities, so that drug testing / approval could be more informative and trustworthy. The project sparked my interest in how causal principles embedded within machine learning algorithms could help formalise and improve treatment effect estimation.
+Hello! My name is Vignesh. I recently graduated from Imperial College London with a first-class MSci Mathematics degree. During the latter half of the programme, I specialised in statistical machine learning and worked on a research project with Dr Christopher Hallsworth, focusing on modelling the heterogeneity in the trajectory of Duchenne Muscular Dystrophy. The goal was to develop a novel scoring method to better explain the differences in patient motor abilities, so that drug testing / approval could be more informative and trustworthy. The project sparked my interest in how causal principles embedded within ML could help and improve treatment effect estimation.
 
-**Interests:** Causality (Causal Effect Estimtation & Causal Feature Learning), Bayesian Statistics, Machine Learning<br>
+
+**Interests:** Causality (Causal Effect Estimtation & Causal Feature Learning), Bayesian Statistics, Interpretable and Robust Machine Learning<br>
 **Programming Languages:** Python, R, Julia, SQL<br>
 **Frameworks:** PyTorch, TensorFlow, HuggingFace<br>
 **Version Control:** Git
