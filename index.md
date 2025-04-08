@@ -11,7 +11,7 @@ layout: default
 
 ## About Me
 
-Hello! My name is Vignesh. I recently graduated from Imperial College London with a first-class MSci Mathematics degree. During the latter half of the programme, I specialised in statistical machine learning and worked on a (10-month) research project with Dr Christopher Hallsworth. The goal was to develop a novel scoring method to better explain the differences in patient motor abilities, so that drug testing / approval could be more informative and trustworthy. The project sparked my interest in how causal principles embedded within ML could improve treatment effect estimation.
+Hello! My name is Vignesh. I graduated from Imperial College London with a first-class MSci Mathematics degree (July 2024). During the latter half of the programme, I specialised in statistical machine learning and worked on a (10-month) research project with Dr Christopher Hallsworth. The goal was to develop a novel scoring method to better explain the differences in patient motor abilities, so that drug testing / approval could be more informative and trustworthy. The project sparked my interest in how causal principles embedded within ML could improve treatment effect estimation.
 
 **Interests:** Causality (Causal Effect Estimation & Causal Feature Learning), Bayesian Statistics, Interpretable and Robust Machine Learning<br>
 **Programming Languages:** Python, R, Julia, SQL<br>
